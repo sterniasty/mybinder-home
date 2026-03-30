@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "badge": "Śledzenie kolekcji kart UniVersus TCG",
+    "title": "Śledź swoją kolekcję UniVersus",
+    "subtitle": "Kataloguj każdą posiadaną kartę, skanuj nowe przez AI, porównuj z innymi kolekcjonerami i śledź wartość kolekcji w dowolnej walucie.",
+    "cta": "Zacznij za darmo",
+    "ctaSignIn": "Zaloguj się",
+    "goToCollection": "Przejdź do mojej kolekcji →"
+  },
+  "features": {
+    "scanner": { "title": "Skaner AI", "desc": "Wgraj zdjęcie — Claude Vision natychmiast identyfikuje Twoje karty" },
+    "pricing": { "title": "Ceny na żywo", "desc": "Wartość kolekcji w USD, AUD, EUR, GBP, PLN z aktualnymi kursami" },
+    "compare": { "title": "Porównaj", "desc": "Udostępnij publiczny profil i porównuj kolekcje z innymi" },
+    "languages": { "title": "6 języków", "desc": "Dostępne po angielsku, polsku, niemiecku, hiszpańsku, francusku i włosku" }
+  },
+  "sets": {
+    "title": "Dostępne sety",
+    "soon": "więcej wkrótce",
+    "available": "Dostępny",
+    "comingSoon": "Wkrótce",
+    "browse": "Przeglądaj kolekcję →",
+    "comingSoonSets": "Więcej setów wkrótce",
+    "comingSoonDesc": "My Hero Academia, Attack on Titan, Street Fighter 6…",
+    "cards": "kart",
+    "released": "Wydany"
+  },
+  "auth": {
+    "signIn": "Zaloguj się",
+    "signOut": "Wyloguj",
+    "getStarted": "Zacznij",
+    "register": "Zarejestruj",
+    "email": "E-mail",
+    "password": "Hasło",
+    "username": "Nazwa użytkownika",
+    "continueGoogle": "Kontynuuj z Google",
+    "orEmail": "lub e-mail",
+    "createAccount": "Utwórz konto",
+    "checkEmail": "Sprawdź e-mail, żeby potwierdzić konto."
+  },
+  "footer": {
+    "unofficial": "Nieoficjalny dodatek do UniVersus",
+    "disclaimer": "UniVersus jest © UVS Games. Ta strona nie jest powiązana z UVS Games."
+  },
+  "meta": {
+    "title": "mybinder.cards — Śledzenie kolekcji UniVersus TCG",
+    "description": "Śledź swoją kolekcję kart UniVersus TCG. Skanuj karty przez AI, porównuj z przyjaciółmi, wycena w dowolnej walucie. Obsługuje Guilty Gear -Strive- GGS01 i inne."
+  }
+}

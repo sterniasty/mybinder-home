@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "badge": "UniVersus TCG Collection Tracker",
+    "title": "Track your UniVersus collection",
+    "subtitle": "Catalog every card you own, scan new ones with AI, compare with other collectors, and track your collection's value in any currency.",
+    "cta": "Start for free",
+    "ctaSignIn": "Sign in",
+    "goToCollection": "Go to my collection →"
+  },
+  "features": {
+    "scanner": { "title": "AI Scanner", "desc": "Upload a photo — Claude Vision identifies your cards instantly" },
+    "pricing": { "title": "Live Pricing", "desc": "Collection value in USD, AUD, EUR, GBP, PLN with live rates" },
+    "compare": { "title": "Compare", "desc": "Share your public profile and compare collections with others" },
+    "languages": { "title": "6 Languages", "desc": "Available in English, Polish, German, Spanish, French and Italian" }
+  },
+  "sets": {
+    "title": "Available sets",
+    "soon": "more coming soon",
+    "available": "Available",
+    "comingSoon": "Coming soon",
+    "browse": "Browse collection →",
+    "comingSoonSets": "More sets coming soon",
+    "comingSoonDesc": "My Hero Academia, Attack on Titan, Street Fighter 6…",
+    "cards": "cards",
+    "released": "Released"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "getStarted": "Get started",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "continueGoogle": "Continue with Google",
+    "orEmail": "or email",
+    "createAccount": "Create account",
+    "checkEmail": "Check your email to confirm your account."
+  },
+  "footer": {
+    "unofficial": "Unofficial UniVersus companion",
+    "disclaimer": "UniVersus is © UVS Games. This site is not affiliated with UVS Games."
+  },
+  "meta": {
+    "title": "mybinder.cards — UniVersus TCG Collection Tracker",
+    "description": "Track your UniVersus TCG collection. Scan cards with AI, compare with friends, value in any currency. Supports Guilty Gear -Strive- GGS01 and more."
+  }
+}
