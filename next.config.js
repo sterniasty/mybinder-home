@@ -15,6 +15,10 @@ const nextConfig = {
         source: '/bb/:path*',
         destination: 'https://bb-app-eight.vercel.app/bb/:path*',
       },
+      {
+        source: '/yt/:path*',
+        destination: 'https://mybinder-yt.vercel.app/yt/:path*',
+      },
     ];
   },
 };
